@@ -151,12 +151,6 @@
 		"SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
         ],
-		"CHANNELS_DEFAULT": [
-            "#FFFFFF"
-        ],
-		"TEXT_LINK": [
-            "#181818"
-        ],
 		"TEXT_DANGER": [
             "#FFFFFF"
         ],
