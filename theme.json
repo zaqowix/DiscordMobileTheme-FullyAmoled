@@ -77,16 +77,16 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BACKGROUND_MODIFIER_SELECTED": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
             "#4A4A4A80"
