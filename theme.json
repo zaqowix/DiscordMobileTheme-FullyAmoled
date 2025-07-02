@@ -32,10 +32,10 @@
             "#FFFFFF"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_HOVER": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_ACTIVE": [
             "#FFFFFF"
@@ -92,16 +92,16 @@
             "#4A4A4A80"
         ],
 		"EMBED_BACKGROUND": [
-            "#181818D0"
+            "#FFFFFFD0"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -116,10 +116,10 @@
             "#000000"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#00000000"
@@ -140,13 +140,13 @@
             "#090909"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
@@ -155,7 +155,7 @@
             "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#181818"
+            "#FFFFFF"
         ],
 		"CHANNEL_ICON": [
             "#FFFFFF"
@@ -186,31 +186,31 @@
 		"PRIMARY_600": "#FFFFFF",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
-		"PRIMARY_800": "#18181840",
+		"PRIMARY_800": "#FFFFFF40",
 		"BRAND_260": "#FFFFFF",
 		"BRAND_360": "#FFFFFF",
 		"BRAND_500": "#1A1A1A",
 		"BRAND_560": "#000000",
 		"RED_400": "#303030",
 		"RED_430": "#000000",
-		"GREEN_360": "#181818",
+		"GREEN_360": "#FFFFFF",
 		"GREEN_430": "#000000",
 		"WHITE_500": "#FFFFFF",
-		"BLUE_345": "#181818",
-		"PLUM_1": "#181818",
-		"PLUM_3": "#181818",
+		"BLUE_345": "#FFFFFF",
+		"PLUM_1": "#FFFFFF",
+		"PLUM_3": "#FFFFFF",
 		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#181818",
-		"PLUM_11": "#181818",
-		"PLUM_13": "#181818",
+		"PLUM_9": "#FFFFFF",
+		"PLUM_11": "#FFFFFF",
+		"PLUM_13": "#FFFFFF",
 		"PLUM_14": "#000000",
 		"PLUM_15": "#202020",
-		"PLUM_16": "#18181840",
+		"PLUM_16": "#FFFFFF40",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#020202",
 		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
-		"PLUM_22": "#18181840",
+		"PLUM_22": "#FFFFFF40",
 		"PLUM_24": "#000000"
 },
 	"spec": 2
