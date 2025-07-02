@@ -1,0 +1,38 @@
+{
+  "name": "Discord Mobile Amoled Theme Without Icon",
+  "description": "Black theme in \"automatic\" dark theme (original by Mylloon)",
+  "authors": [
+    {
+      "name": "zaqo",
+      "id": "158260864623968257"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#000001"],
+    "BACKGROUND_ACCENT": ["#000001"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+  },
+  "rawColors": {
+    "PRIMARY_560": "#000001",
+    "PRIMARY_600": "#000001",
+    "PRIMARY_630": "#000001",
+    "PRIMARY_660": "#000001",
+    "PRIMARY_700": "#000001",
+    "PRIMARY_800": "#000001",
+
+    "BRAND_500": "#141414",
+
+    "PLUM_15": "#000001",
+    "PLUM_17": "#000001",
+    "PLUM_18": "#000001",
+    "PLUM_19": "#000001",
+    "PLUM_20": "#000001",
+    "PLUM_23": "#000001",
+    "PLUM_24": "#000001"
+  },
+  "plus": {
+    "version": "0"
+  }
+}
