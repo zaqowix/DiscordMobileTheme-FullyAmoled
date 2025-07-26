@@ -44,10 +44,10 @@
             "#2A2A2A"
         ],
 		"BACKGROUND_PRIMARY": [
-            "#FFFFFF"
+            "#000000"
         ],
 		"BACKGROUND_SECONDARY": [
-            "#000000"
+            "#FFFFFF"
         ],
 		"BACKGROUND_SECONDARY_ALT": [
             "#000000"
