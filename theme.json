@@ -155,13 +155,13 @@
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#5865F2"
+            "#181818"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#FFFFFF"
+            "#000000"
         ],
 		"CHANNEL_ICON": [
             "#FFFFFF"
@@ -199,8 +199,8 @@
 		"BRAND_560": "#000000",
 		"RED_400": "#303030",
 		"RED_430": "#000000",
-		"GREEN_360": "#181818",
-		"GREEN_430": "#000000",
+		"GREEN_360": "#FFFFFF",
+		"GREEN_430": "#FFFFFF",
 		"WHITE_500": "#FFFFFF",
 		"BLUE_345": "#181818",
 		"PLUM_1": "#181818",
